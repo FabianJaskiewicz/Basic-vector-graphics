@@ -1,0 +1,15 @@
+C:\Documents\CS264\Assignment_2\obj\Debug\net6.0\Assignment_2.csproj.AssemblyReference.cache
+C:\Documents\CS264\Assignment_2\obj\Debug\net6.0\Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\CS264\Assignment_2\obj\Debug\net6.0\Assignment_2.AssemblyInfoInputs.cache
+C:\Documents\CS264\Assignment_2\obj\Debug\net6.0\Assignment_2.AssemblyInfo.cs
+C:\Documents\CS264\Assignment_2\obj\Debug\net6.0\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Documents\CS264\Assignment_2\bin\Debug\net6.0\Assignment_2.exe
+C:\Documents\CS264\Assignment_2\bin\Debug\net6.0\Assignment_2.deps.json
+C:\Documents\CS264\Assignment_2\bin\Debug\net6.0\Assignment_2.runtimeconfig.json
+C:\Documents\CS264\Assignment_2\bin\Debug\net6.0\Assignment_2.dll
+C:\Documents\CS264\Assignment_2\bin\Debug\net6.0\Assignment_2.pdb
+C:\Documents\CS264\Assignment_2\obj\Debug\net6.0\Assignment_2.dll
+C:\Documents\CS264\Assignment_2\obj\Debug\net6.0\refint\Assignment_2.dll
+C:\Documents\CS264\Assignment_2\obj\Debug\net6.0\Assignment_2.pdb
+C:\Documents\CS264\Assignment_2\obj\Debug\net6.0\Assignment_2.genruntimeconfig.cache
+C:\Documents\CS264\Assignment_2\obj\Debug\net6.0\ref\Assignment_2.dll
